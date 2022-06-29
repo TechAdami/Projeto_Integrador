@@ -21,7 +21,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### 3.PMC<br>
 ![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
 a) inclusão do PMC desenvolvido pelo grupo <br>
-
+Nosso PMC: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.pdf<br>
 
 ### 4.Personas e Histórias de usuário<br>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
