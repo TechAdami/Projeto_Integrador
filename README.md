@@ -1,11 +1,11 @@
-# TRABALHO DE PI:  Título do Trabalho
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+# TRABALHO DE PI:  APP para o aprendizado de inglês e espanhol (YoLearn)
+Trabalho desenvolvido durante as disciplinas de desenvolvimento de sistemas e projeto integrador
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
+Micaelly Vitória Andrade Abraão: micaellyandrade2@gmail.com<br>
 segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
 ...
 
