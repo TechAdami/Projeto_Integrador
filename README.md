@@ -23,11 +23,11 @@ a) inclusão do PMC desenvolvido pelo grupo <br>
 Nosso PMC: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.pdf<br>
 
 ### 4.Personas e Histórias de usuário<br>
-<img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
+Nossas personas: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Personas.pdf<br>
 <br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+b) inclusão das Histórias de usuário desenvolvidas pelo grupo<br>
+Nossas histórias de usuário: <br>
 <br>
 
 
