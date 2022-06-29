@@ -27,7 +27,7 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 Nossas personas: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Personas.pdf<br>
 <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo<br>
-Nossas histórias de usuário: <br>
+Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
 <br>
 
 
@@ -72,9 +72,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     D) Qualidade e Clareza
         Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
+        e tuplas falsas (Aplicar os conceitos de normalização abordados).<br>
+        NOSSO MODELO CONCEITUAL: 
         
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
       
     
 #### 7.1 Descrição dos dados 
