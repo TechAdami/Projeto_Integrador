@@ -12,10 +12,6 @@ Alana Sousa Lino: alanasousalino@gmail.com<br>
 ...
 
 ### 2.MINIMUNDO<br>
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
-Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
-Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-<br>
 
 > O sistema Yolearn conterá as informações à seguir: A tabela de Disponibilidade conterá dias da semana e horários. Cada horário precisa ter um professor, e um professor pode ter vários horários. Em Professor e Aluno serão armazenados nome, data de nascimento, email, id e senha. Em Professor também é armazenada uma descrição. Um Aluno pode ter mais de um professor, e cada professor pode ter vários alunos. Um aluno pode estudar nenhum ou vários idiomas, e um idioma precisa ter pelo menos um aluno. Um professor pode ensinar nenhum ou vários idiomas, e cada idioma precisa ter pelo menos um professor. Do Cadastro será armazenado o usuário e a senha. Cada aluno possui apenas um cadastro. Em Idioma será armazenado Inglês e Espanhol. 
  
@@ -25,10 +21,10 @@ a) inclusão do PMC desenvolvido pelo grupo <br>
 Nosso PMC: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.pdf<br>
 
 ### 4.Personas e Histórias de usuário<br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
+a) inclusão dos Persons desenvolvidos pelo grupo:<br>
 Nossas personas: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Personas.pdf<br>
 <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo<br>
+b) inclusão das Histórias de usuário desenvolvidas pelo grupo:<br>
 Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
 <br>
 
@@ -36,11 +32,7 @@ Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/b
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-NOSSO PROTÓTIPO:<br>
-
-![Arquivo PDF do Protótipo]https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/prot%C3%B3tipo_YoLearn.pdf "YoLearn")<br>
-
+Nosso protótipo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/prot%C3%B3tipo_YoLearn.pdf<br>
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
@@ -55,31 +47,15 @@ NOSSO PROTÓTIPO:<br>
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
-    A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
-    B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
- <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
-    C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
     
-    NOSSA TABELA DE DADOS: <br>
-![Dados](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Dados.pdf "Tabela - YoLearn")
+Nossa tabela de dados: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Dados.pdf<br>
 
- 
- ### 7.MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento
- <br>(se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).<br>
-        
-        NOSSO MODELO CONCEITUAL: 
+ ### 7.MODELO CONCEITUAL: <br>
+   
+Nosso modelo conceitual: 
         
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
       
-    
 #### 7.1 Descrição dos dados 
     [objeto]: [descrição do objeto]
     
