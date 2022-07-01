@@ -30,7 +30,6 @@ Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/b
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
 Nosso protótipo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/prot%C3%B3tipo_YoLearn.pdf<br>
 
