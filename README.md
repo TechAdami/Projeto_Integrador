@@ -53,29 +53,29 @@ Nossa tabela de dados: <br>
    
 Nosso modelo conceitual: 
         
-![Alt text] (https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_Conceitual.png "Modelo Conceitual")
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png) "Modelo Conceitual")
       
 #### 7.1 Descrição dos dados<br>
 
-    PROFESSOR: Tabela que armazena as informações relativas aos professores.<br>
+    PROFESSOR: Tabela que armazena as informações relativas aos professores.
     ALUNO: Tabela que armazena as informações relativas aos alunos.<br>
-    CADASTRO_PROFESSOR: Tabela que armazena as informações relativas ao cadastro dos professores.<br>
-    CADASTRO_ALUNO: Tabela que armazena as informações relativas ao cadastro dos alunos.<br>
-    DISPONIBILIDADE: Tabela que armazena as informações relativas a disponilidade dos professores.<br>
+    CADASTRO_PROFESSOR: Tabela que armazena as informações relativas ao cadastro dos professores.
+    CADASTRO_ALUNO: Tabela que armazena as informações relativas ao cadastro dos alunos.
+    DISPONIBILIDADE: Tabela que armazena as informações relativas a disponilidade dos professores.
     DIAS: Tabela que armazena os dias da semana.<br>
-    IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.<br>
+    IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.
     
-    NOME: campo que armazena o nome de cada aluno e professor cadastrado.<br>
-    ID: campo que armazena a identificação única de cada tabela.<br>
-    DAT_NASC: campo que armazena a data de nascimento de cada aluno e professor cadastrado.<br>
-    EMAIL: campo que armazena o email de cada aluno e professor cadastrado.<br>
-    BIO: campo que armazena informações de cada professor cadastrado.<br>
-    HORARIO_FIM: campo que armazena o horário final da disponibilidade de um professor.<br>
-    HORARIO_INICIO: campo que armazena o horário inicial da disponibilidade de um professor.<br>
-    NOM_DIAS: campo que armazena o nome de cada dia da semana.<br>
-    NOM_IDIOMA: campo que armazena o nome de cada idioma disponivel para o aprendizado e ensinamento.<br>
-    USUARIO_PROF/ALUNO: campo que armazena o usuário de um professor/aluno.<br>
-    SENHA_PROF/ALUNO: campo que armazena a senha de um professor/aluno.<br>
+    NOME: campo que armazena o nome de cada aluno e professor cadastrado.
+    ID: campo que armazena a identificação única de cada tabela.
+    DAT_NASC: campo que armazena a data de nascimento de cada aluno e professor cadastrado.
+    EMAIL: campo que armazena o email de cada aluno e professor cadastrado.
+    BIO: campo que armazena informações de cada professor cadastrado.
+    HORARIO_FIM: campo que armazena o horário final da disponibilidade de um professor.
+    HORARIO_INICIO: campo que armazena o horário inicial da disponibilidade de um professor.
+    NOM_DIAS: campo que armazena o nome de cada dia da semana.
+    NOM_IDIOMA: campo que armazena o nome de cada idioma disponivel para o aprendizado e ensinamento.
+    USUARIO_PROF/ALUNO: campo que armazena o usuário de um professor/aluno.
+    SENHA_PROF/ALUNO: campo que armazena a senha de um professor/aluno.
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (mockup)
