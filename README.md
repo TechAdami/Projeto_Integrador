@@ -31,7 +31,7 @@ Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/b
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-Nosso protótipo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/prot%C3%B3tipo_YoLearn.pdf<br>
+Nosso protótipo: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-g/view?mode=prototype<br>
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
@@ -78,7 +78,8 @@ Nosso modelo conceitual:
     SENHA_PROF/ALUNO: campo que armazena a senha de um professor/aluno.
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
-        a) Historia de usuários vs protótipo (mockup)
+a) Historia de usuários vs protótipo (mockup): https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HUxProt%C3%B3tipo.pdf<br>
+        
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
         c) Backlog (caso solicitado)
