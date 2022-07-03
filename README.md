@@ -53,7 +53,7 @@ Nossa tabela de dados: <br>
    
 Nosso modelo conceitual: 
         
-![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png) "Modelo Conceitual")
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo__Conceitual.png "Modelo Conceitual")
       
 #### 7.1 Descrição dos dados<br>
 
