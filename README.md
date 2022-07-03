@@ -63,10 +63,10 @@ Nossa tabela de dados: <br>
     DIAS: Tabela que armazena os dias da semana.<br>
     IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.
     
-    NOME: campo que armazena o nome de cada aluno e professor cadastrado.
-    ID: campo que armazena a identificação única de cada tabela.
-    DAT_NASC: campo que armazena a data de nascimento de cada aluno e professor cadastrado.
-    EMAIL: campo que armazena o email de cada aluno e professor cadastrado.
+    NOM_ALUNO/PROF: campo que armazena o nome de cada aluno e professor cadastrado.
+    ID_(nome da tabela): campo que armazena a identificação única de cada tabela.
+    DAT_NASC_ALUNO/PROF: campo que armazena a data de nascimento de cada aluno e professor cadastrado.
+    EMAIL_ALUNO/PROF: campo que armazena o email de cada aluno e professor cadastrado.
     BIO: campo que armazena informações de cada professor cadastrado.
     HORARIO_FIM: campo que armazena o horário final da disponibilidade de um professor.
     HORARIO_INICIO: campo que armazena o horário inicial da disponibilidade de um professor.
@@ -89,7 +89,7 @@ a) Historia de usuários vs protótipo (mockup): https://github.com/TechAdami/Pr
 
 Arquivo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_L%C3%B3gico.mwb
 
-b) verificação com o modelo conceitual correspondencia com o modelo conceitual:<br>
+b) modelo conceitual para verificação de correspondencia com o modelo lógico:<br>
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
         
 
