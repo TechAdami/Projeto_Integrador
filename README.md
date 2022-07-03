@@ -47,20 +47,35 @@ Nosso protótipo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arqu
 
 ### 6 TABELA DE DADOS DO SISTEMA:
     
-Nossa tabela de dados: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Dados.pdf<br>
+Nossa tabela de dados: <br>
 
  ### 7.MODELO CONCEITUAL: <br>
    
 Nosso modelo conceitual: 
         
-![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
+![Alt text] (https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_Conceitual.png "Modelo Conceitual")
       
-#### 7.1 Descrição dos dados 
-    [objeto]: [descrição do objeto]
+#### 7.1 Descrição dos dados<br>
+
+    PROFESSOR: Tabela que armazena as informações relativas aos professores.<br>
+    ALUNO: Tabela que armazena as informações relativas aos alunos.<br>
+    CADASTRO_PROFESSOR: Tabela que armazena as informações relativas ao cadastro dos professores.<br>
+    CADASTRO_ALUNO: Tabela que armazena as informações relativas ao cadastro dos alunos.<br>
+    DISPONIBILIDADE: Tabela que armazena as informações relativas a disponilidade dos professores.<br>
+    DIAS: Tabela que armazena os dias da semana.<br>
+    IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.<br>
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    NOME: campo que armazena o nome de cada aluno e professor cadastrado.<br>
+    ID: campo que armazena a identificação única de cada tabela.<br>
+    DAT_NASC: campo que armazena a data de nascimento de cada aluno e professor cadastrado.<br>
+    EMAIL: campo que armazena o email de cada aluno e professor cadastrado.<br>
+    BIO: campo que armazena informações de cada professor cadastrado.<br>
+    HORARIO_FIM: campo que armazena o horário final da disponibilidade de um professor.<br>
+    HORARIO_INICIO: campo que armazena o horário inicial da disponibilidade de um professor.<br>
+    NOM_DIAS: campo que armazena o nome de cada dia da semana.<br>
+    NOM_IDIOMA: campo que armazena o nome de cada idioma disponivel para o aprendizado e ensinamento.<br>
+    USUARIO_PROF/ALUNO: campo que armazena o usuário de um professor/aluno.<br>
+    SENHA_PROF/ALUNO: campo que armazena a senha de um professor/aluno.<br>
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (mockup)
@@ -68,7 +83,6 @@ Nosso modelo conceitual:
         (não serão aceitos modelos que não estejam em conformidade)
         c) Backlog (caso solicitado)
         
-
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
