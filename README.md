@@ -51,9 +51,7 @@ Nossa tabela de dados: <br>
 
  ### 7.MODELO CONCEITUAL: <br>
    
-Nosso modelo conceitual: 
-        
-![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo__Conceitual.png "Modelo Conceitual")
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
       
 #### 7.1 Descrição dos dados<br>
 
@@ -86,14 +84,19 @@ a) Historia de usuários vs protótipo (mockup): https://github.com/TechAdami/Pr
         
 
 ### 9	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_L%C3%B3gico.png "Modelo Lógico")
+
+Arquivo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_L%C3%B3gico.mwb
+
+b) verificação com o modelo conceitual correspondencia com o modelo conceitual:<br>
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
+        
 
 ### 10	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
-        
+
+a) inclusão das instruções de criacão das estruturas em SQL/DDL:
+https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_ModeloF%C3%ADsico.sql
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
