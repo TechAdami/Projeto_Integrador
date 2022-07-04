@@ -35,7 +35,8 @@ Nosso protótipo: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?<br>
 
 a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes?<br>
-Poderá fornecer informações sobre os alunos, professores e os idiomas disponíveis.
+
+*Poderá fornecer informações sobre os alunos, professores e os idiomas disponíveis.
     
 b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto:
     
