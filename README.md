@@ -46,7 +46,7 @@ Nosso protótipo: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-
 
 ### 6 TABELA DE DADOS DO SISTEMA:
     
-Nossa tabela de dados: <br>
+Nossa tabela de dados: https://docs.google.com/spreadsheets/d/1NMLlTAfYdCDDFnRaV_NSS-Gvf9f6tzsIoc2n2Xghd7Y/edit?usp=sharing<br>
 
  ### 7.MODELO CONCEITUAL: <br>
    
