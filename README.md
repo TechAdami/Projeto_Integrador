@@ -77,8 +77,8 @@ Nossa tabela de dados: <br>
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
 a) Historia de usuários vs protótipo (mockup): https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HUxProt%C3%B3tipo.pdf<br>
         
-        b) Protótipo vs Modelo conceitual
-        (não serão aceitos modelos que não estejam em conformidade)
+b) Protótipo vs Modelo conceitual: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Prot%C3%B3tipoxModeloConceitual.pdf<br>
+        
         c) Backlog (caso solicitado)
         
 
