@@ -59,7 +59,7 @@ Nossa tabela de dados: <br>
     CADASTRO_PROFESSOR: Tabela que armazena as informações relativas ao cadastro dos professores.
     CADASTRO_ALUNO: Tabela que armazena as informações relativas ao cadastro dos alunos.
     DISPONIBILIDADE: Tabela que armazena as informações relativas a disponilidade dos professores.
-    DIAS: Tabela que armazena os dias da semana.<br>
+    DIAS_SEMANA: Tabela que armazena os dias da semana.<br>
     IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.
     
     NOM_ALUNO/PROF: campo que armazena o nome de cada aluno e professor cadastrado.
