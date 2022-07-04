@@ -32,16 +32,20 @@ Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/b
 
 Nosso protótipo: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-g/view?mode=prototype<br>
 
-#### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+#### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?<br>
+
+a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes?<br>
+Poderá fornecer informações sobre os alunos, professores e os idiomas disponíveis.
     
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto:
+    
+> A YoLearn precisa inicialmente dos seguintes relatórios:
+
+* Relatório que informe quais são as disponibilidades de cada professor incluindo as seguintes informações: nome do professor, horário de fim e horário de início.
+* Relatório de alunos por idioma incluindo as seguintes informações: nome do aluno, nome do idioma, id do idioma e id do aluno.
+* Relatório com a quantidade de alunos para cada professor incluindo as seguintes informações: nome do professor, id do professor, nome do aluno, id do aluno e quantidade de alunos na turma do professor.
+* Relatório com a quantidade de alunos para cada idioma incluindo as seguintes informações:  nome do aluno, id do aluno, id do idioma, nome do idioma e quantidade de alunos estudando cada idioma.
+* Relatório que informe quais são os dias da semana para cada disponibilidade incluindo as seguintes informações: nome do dia, id do dia,  horário de fim e horário de início.
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
