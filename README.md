@@ -89,9 +89,9 @@ b) Protótipo vs Modelo conceitual: https://github.com/TechAdami/Projeto_Integra
 
 ### 9	MODELO LÓGICO<br>
 
-![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_L%C3%B3gico.png "Modelo Lógico")
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/modelologico.png "Modelo Lógico")
 
-Arquivo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Modelo_L%C3%B3gico.mwb
+Arquivo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/modelologico.mwb
 
 b) modelo conceitual para verificação de correspondencia com o modelo lógico:<br>
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
@@ -103,12 +103,8 @@ a) inclusão das instruções de criacão das estruturas em SQL/DDL:
 https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_ModeloF%C3%ADsico.sql
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-        a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
-        (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados 
- <br> + insert para dados a serem inseridos)
-        b) Criar um novo banco de dados para testar a restauracao 
-        (em caso de falha na restauração o grupo não pontuará neste quesito)
-        c) formato .SQL
+
+Arquivo .sql: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ScriptComInsert.sql
 
 
 ### 12	TABELAS E PRINCIPAIS CONSULTAS<br>
@@ -120,7 +116,10 @@ https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_Model
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
- #### 12.3 ANTEPROJETO VERSÃO 1
+ 
+ #### 12.3 ANTEPROJETO VERSÃO 1<br>
+ 
+ *VERSÃO 1 DO NOSSO ANTEPROJETO: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_Anteprojeto.pdf
  
  Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
  
