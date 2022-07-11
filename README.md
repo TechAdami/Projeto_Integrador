@@ -72,8 +72,6 @@ PRINCIPAIS FLUXOS:<br>
 * Professor ensina idioma.
 * Idioma é aprendido por pessoa.
 
-<br>
-
 #### 7.1 Descrição dos dados<br>
 
     PROFESSOR: Tabela que armazena as informações relativas aos professores.
@@ -132,7 +130,7 @@ Arquivo .sql: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos
  
  #### 12.3 ANTEPROJETO VERSÃO 1<br>
  
- *VERSÃO 1 DO NOSSO ANTEPROJETO: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_Anteprojeto.pdf
+ * VERSÃO 1 DO NOSSO ANTEPROJETO: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_Anteprojeto.pdf
  
  Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
  
