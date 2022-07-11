@@ -70,7 +70,7 @@ Nossa tabela de dados: https://docs.google.com/spreadsheets/d/1NMLlTAfYdCDDFnRaV
 
 PRINCIPAIS FLUXOS:<br>
 * Professor ensina idioma.
-* Idioma é aprendido por pessoa.
+* Idioma é estudado por pessoa.
 
 #### 7.1 Descrição dos dados<br>
 
