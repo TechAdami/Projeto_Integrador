@@ -17,14 +17,21 @@ Alana Sousa Lino: alanasousalino@gmail.com<br>
  
 ### 3.PMC<br>
 a) inclusão do PMC desenvolvido pelo grupo <br>
-Nosso PMC: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.pdf<br>
+Arquivo pdf: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.pdf<br>
+
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/PMC.png "PMC")
 
 ### 4.Personas e Histórias de usuário<br>
-a) inclusão dos Persons desenvolvidos pelo grupo:<br>
-Nossas personas: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Personas.pdf<br>
+a) inclusão dos Personas desenvolvidos pelo grupo:<br>
+Arquivo com todas as personas: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Personas.pdf<br>
+
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Persona.png "Persona")
+
 <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo:<br>
-Nossas histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
+Arquivo com todas as histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
+
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HistoriaUsuario.png "HU")
 <br>
 
 
@@ -53,31 +60,39 @@ b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por m
     
 Nossa tabela de dados: https://docs.google.com/spreadsheets/d/1NMLlTAfYdCDDFnRaV_NSS-Gvf9f6tzsIoc2n2Xghd7Y/edit?usp=sharing<br>
 
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/TabelaDados.png "Dados")
+<br>
+
  ### 7.MODELO CONCEITUAL: <br>
-   
+
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
-      
+<br>
+
+PRINCIPAIS FLUXOS:<br>
+* Professor ensina idioma.
+* Idioma é aprendido por pessoa.
+
+<br>
+
 #### 7.1 Descrição dos dados<br>
 
     PROFESSOR: Tabela que armazena as informações relativas aos professores.
-    ALUNO: Tabela que armazena as informações relativas aos alunos.<br>
-    CADASTRO_PROFESSOR: Tabela que armazena as informações relativas ao cadastro dos professores.
-    CADASTRO_ALUNO: Tabela que armazena as informações relativas ao cadastro dos alunos.
+    PESSOA: Tabela que armazena as informações relativas a todos os usuarios do sistema.<br>
     DISPONIBILIDADE: Tabela que armazena as informações relativas a disponilidade dos professores.
     DIAS_SEMANA: Tabela que armazena os dias da semana.<br>
     IDIOMA: Tabela que armazena os idiomas disponiveis para aprendizado e ensinamento.
     
-    NOM_ALUNO/PROF: campo que armazena o nome de cada aluno e professor cadastrado.
+    NOME: campo que armazena o nome do usuário cadastrado.
     ID_(nome da tabela): campo que armazena a identificação única de cada tabela.
-    DAT_NASC_ALUNO/PROF: campo que armazena a data de nascimento de cada aluno e professor cadastrado.
-    EMAIL_ALUNO/PROF: campo que armazena o email de cada aluno e professor cadastrado.
+    DAT_NASC: campo que armazena a data de nascimento de cada aluno e professor cadastrado.
+    EMAIL: campo que armazena o email de cada aluno e professor cadastrado.
     BIO: campo que armazena informações de cada professor cadastrado.
     HORARIO_FIM: campo que armazena o horário final da disponibilidade de um professor.
     HORARIO_INICIO: campo que armazena o horário inicial da disponibilidade de um professor.
     NOM_DIAS: campo que armazena o nome de cada dia da semana.
     NOM_IDIOMA: campo que armazena o nome de cada idioma disponivel para o aprendizado e ensinamento.
-    USUARIO_PROF/ALUNO: campo que armazena o usuário de um professor/aluno.
-    SENHA_PROF/ALUNO: campo que armazena a senha de um professor/aluno.
+    USUARIO: campo que armazena o usuário de um professor/aluno.
+    SENHA: campo que armazena a senha de um professor/aluno.
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
 a) Historia de usuários vs protótipo (mockup): https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HUxProt%C3%B3tipo.pdf<br>
@@ -89,9 +104,7 @@ b) Protótipo vs Modelo conceitual: https://github.com/TechAdami/Projeto_Integra
 
 ### 9	MODELO LÓGICO<br>
 
-![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/modelologico.png "Modelo Lógico")
-
-Arquivo: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/modelologico.mwb
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloLogico.png "Modelo Lógico")
 
 b) modelo conceitual para verificação de correspondencia com o modelo lógico:<br>
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
@@ -100,7 +113,7 @@ b) modelo conceitual para verificação de correspondencia com o modelo lógico:
 ### 10	MODELO FÍSICO<br>
 
 a) inclusão das instruções de criacão das estruturas em SQL/DDL:
-https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/YoLearn_ModeloF%C3%ADsico.sql
+https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ScriptYoLearn.sql
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
