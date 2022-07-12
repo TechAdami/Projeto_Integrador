@@ -29,15 +29,18 @@ Arquivo com todas as personas: https://github.com/TechAdami/Projeto_Integrador/b
 
 <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo:<br>
-Arquivo com todas as histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
-
+Arquivo com todas as histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf 
+<br>
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HistoriaUsuario.png "HU")
 <br>
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-Nosso protótipo: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-g/view?mode=prototype<br>
+Link p/ o protótipo navegável: https://www.canva.com/design/DAFA2zGHVJ0/r7BR0jBbJ4MLoq4oNT9m-g/view?mode=prototype<br>
+
+![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/Prototipo.png "Prototipo")
+<br>
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?<br>
 
@@ -104,7 +107,8 @@ b) Protótipo vs Modelo conceitual: https://github.com/TechAdami/Projeto_Integra
 
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloLogico.png "Modelo Lógico")
 
-b) modelo conceitual para verificação de correspondencia com o modelo lógico:<br>
+b) modelo conceitual para verificação de correspondencia com o modelo lógico:
+<br>
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/ModeloConceitual.png "Modelo Conceitual")
         
 
