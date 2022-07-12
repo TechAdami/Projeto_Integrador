@@ -29,8 +29,8 @@ Arquivo com todas as personas: https://github.com/TechAdami/Projeto_Integrador/b
 
 <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo:<br>
-Arquivo com todas as histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf 
-<br>
+Arquivo com todas as histórias de usuário: https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HU.pdf <br>
+
 ![Alt text](https://github.com/TechAdami/Projeto_Integrador/blob/main/arquivos/HistoriaUsuario.png "HU")
 <br>
 
